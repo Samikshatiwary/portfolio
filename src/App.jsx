@@ -520,7 +520,7 @@ function Footer() {
     <footer className="footer">
       <div className="container">
         <p>Designed & built by <span className="accent">{PROFILE.name}</span></p>
-        <p className="footer__muted">React · Vite · Deployed on Vercel</p>
+        <p className="footer__muted">© 2026 Samiksha Raj · All rights reserved</p>
       </div>
     </footer>
   )
